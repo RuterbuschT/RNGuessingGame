@@ -150,20 +150,12 @@ How to Play
     Keep track of your remaining lives.
     Win the game by guessing the correct number.
 
-License
-
-This project is licensed under the MIT License.
-Acknowledgments
-
-    Thanks to the authors of the dependencies and libraries used in this project.
 
 Contact
 
 If you have any questions or feedback, please feel free to contact the project maintainer:
-
-    Your Name
-    Email: your.email@example.com
-    GitHub: Your GitHub Profile
+Tyler Ruterbusch
+tylerruterbusch.cod@gmail.com
 
 Roadmap
 
